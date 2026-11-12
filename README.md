@@ -139,13 +139,13 @@ The project combines database design with practical analytical queries and evide
 
 The query ranks movies by average rating while requiring a minimum of 100 ratings.
 
-![Top-rated movies analysis](images/top_rated_movies.png)
+![Top-rated movies analysis](top_rated_movies.png)
 
 ### Genre Analysis
 
 This analysis compares rating volume, average ratings, and movie counts across genres.
 
-![Genre analysis results](images/genre_analysis.png)
+![Genre analysis results](genre_analysis.png)
 
 ## Business Insights & Recommendations
 
